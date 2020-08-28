@@ -4,7 +4,6 @@ Poll Template Syntax
 [//]: http://redditpoll.com/
 
 
-
 ### Poll Desc Example1
 
 'desc----------------------------------------------------------------------'
