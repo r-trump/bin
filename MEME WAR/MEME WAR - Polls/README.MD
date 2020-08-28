@@ -16,10 +16,10 @@ Feedback for "MEME WAR 2"
 
 '----------------------------------------------------------------------'
 
-[pollQ]: https://i.imgur.com/0i4JEoE.png  "Poll's Title (ie Question)"
-[pollTargetSetting]: https://i.imgur.com/OpGsSNg.png "Poll's Settings"
+[pollQ]: https://i.imgur.com/0i4JEoE.png  "Polls Title (ie Question)"
+[pollTargetSetting]: https://i.imgur.com/OpGsSNg.png "Polls Settings"
 [pollDesc]: https://i.imgur.com/irJT1EL.png "Body Text"
-[pollSubQuery]: https://i.imgur.com/lUdNqvR.png "Poll's Sub-Queries"
+[pollSubQuery]: https://i.imgur.com/lUdNqvR.png "Polls Sub-Queries"
 [moreOptions]: https://i.imgur.com/9G682hh.png "Advanced Options"
 ----
 
@@ -28,10 +28,23 @@ Feedback for "MEME WAR 2"
 ### Imgs inLn to preceding Ln 
 
 ![Poll's Title // Question][pollQ]
+
+----
+
 ![Poll's Settings // Where (Comment/Topic-Post)][pollTargetSetting]
-![Poll (Body) Description](pollDesc)
-![Poll Queries (To Test)](pollSubQuery)
-![Advanced Reddit Options // Verification/UserSignIn Req/Display Settings](moreOptions)
+
+----
+
+![Poll (Body) Description][pollDesc]
+
+----
+
+![Poll Queries (To Test)][pollSubQuery]
+
+----
+
+![Advanced Reddit Options // Verification/UserSignIn Req/Display Settings][moreOptions]
+
 ----
 
 
