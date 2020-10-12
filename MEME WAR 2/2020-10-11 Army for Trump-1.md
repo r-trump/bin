@@ -1,12 +1,10 @@
-# [Army for Trump](https://www.armyfortrump.com/)
-
-**[Army for Trump](https://www.armyfortrump.com/)**
+# **[Army for Trump](https://www.armyfortrump.com/)**
 
 -----
 
 **Digital Activist**
 
-WIN [Social Media](https://github.com/r-trump/bin/blob/master/Media%20Storage/2020-10-11%20army%20for%20trump_digital%20activist-1.png)
+WIN [Social Media](https://raw.githubusercontent.com/r-trump/bin/master/Media%20Storage/2020-10-11%20army%20for%20trump_digital%20activist-1.png)
 
 - [-> ENLIST <-](https://www.armyfortrump.com/forms/become-a-digital-activist)
 
