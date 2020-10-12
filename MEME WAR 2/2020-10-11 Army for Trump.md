@@ -1,7 +1,6 @@
 # [Army for Trump](https://www.armyfortrump.com/)
 
-
-![](https://www.armyfortrump.com/images/site/digitalactivistapp.jpg)
+**[Army for Trump](https://www.armyfortrump.com/)**
 
 -----
 
