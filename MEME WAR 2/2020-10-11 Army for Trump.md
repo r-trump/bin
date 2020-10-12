@@ -1,8 +1,6 @@
 # [Army for Trump](https://www.armyfortrump.com/)
 
 
-
-
 ![](https://www.armyfortrump.com/images/site/digitalactivistapp.jpg)
 
 -----
@@ -61,16 +59,22 @@ For America's future!
 
 **Become a Trump Team Leader**
 
+[Leadership](https://raw.githubusercontent.com/r-trump/bin/master/Media%20Storage/2020-10-11%20army%20for%20trump_team%20leader.png)
+
 - [-> ENLIST <-](https://www.armyfortrump.com/forms/become-a-trump-team-leader)
 
 -----
 
 **Become a Trump Victory Fellow**
 
+[Fellows](https://raw.githubusercontent.com/r-trump/bin/master/Media%20Storage/2020-10-11%20army%20for%20trump_vitory%20fellow.png)
+
 - [-> ENLIST <-](https://www.armyfortrump.com/forms/become-a-trump-victory-fellow)
 
 -----
 
 **Election Day Team**
+
+Game Day [Team!](https://raw.githubusercontent.com/r-trump/bin/master/Media%20Storage/2020-10-11%20army%20for%20trump_election%20day%20team.png)
 
 - [-> ENLIST <-](https://www.armyfortrump.com/forms/election-day-team)
