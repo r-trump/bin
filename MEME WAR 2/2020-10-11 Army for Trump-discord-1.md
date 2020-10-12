@@ -7,6 +7,9 @@
 ```md
 
 ```md
+// Copy BELOW
+-> start <-
+
 # **[Army for Trump](https://www.armyfortrump.com/)**
 
 -----
@@ -84,6 +87,8 @@ For America's future!
 **Election Day Team**
 
 Game Day [Team!](https://raw.githubusercontent.com/r-trump/bin/master/Media%20Storage/2020-10-11%20army%20for%20trump_election%20day%20team.png
+
+-> end <-
 ```
 
 ```
